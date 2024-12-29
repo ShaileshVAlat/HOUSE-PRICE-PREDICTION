@@ -1,7 +1,6 @@
 # House-price-prediction-using-flask
 This project demonstrates the predictive capabilities of a model trained on house price data using Linear Regression. The model is deployed using a Flask API, providing an interface to predict house prices based on input features.
 
-For a detailed explanation, check out my blog post: [House Price Prediction using Flask for Beginners](https://techyscientists.blogspot.com/2021/07/house-price-prediction-using-flask.html)
 
 ## Installation
 
@@ -30,10 +29,6 @@ python app.py
 <br>
 <br>
 
-## License
-MIT License
-<br>
-<br>
 
 ### Thank you
 "# house-Price-Prediction" 
